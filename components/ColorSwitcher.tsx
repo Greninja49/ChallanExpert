@@ -33,7 +33,7 @@ export default function ColorSwitcher() {
 }
 
 const CustomButton = styled.button`
-  display: flex;
+  display: none;
   cursor: pointer;
   align-items: center;
   border: 0;
